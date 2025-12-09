@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "DIFFICULT",
+  "base_artist": "guca owl",
+  "createdAt": "2025-12-09T14:13:36.759826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Difficult Year - Bonus Track",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/01_Difficult_Year_-_Bonus_Track_Keane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Difficult Year",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/02_Difficult_Year_Keane.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Difficult Guys (Extended Mix)",
+      "artist": "Camille Jones",
+      "has_synced": false,
+      "path": "select/03_Difficult_Guys_(Extended_Mix)_Camille_Jones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Difficult Guys (Grazehopp Mix)",
+      "artist": "Camille Jones",
+      "has_synced": false,
+      "path": "select/04_Difficult_Guys_(Grazehopp_Mix)_Camille_Jones.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's Not Difficult",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/05_It's_Not_Difficult_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Difficult Age",
+      "artist": "Andy Partridge",
+      "has_synced": false,
+      "path": "select/06_Difficult_Age_Andy_Partridge.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Difficult Kind",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/07_The_Difficult_Kind_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Difficult Kind",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/08_The_Difficult_Kind_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Difficult Fun",
+      "artist": "The Slits",
+      "has_synced": false,
+      "path": "select/09_Difficult_Fun_The_Slits.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Difficult for Now",
+      "artist": "Jordana",
+      "has_synced": true,
+      "path": "select/10_Difficult_for_Now_Jordana.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Healing Is Difficult",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/11_Healing_Is_Difficult_Sia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Difficult",
+      "artist": "Uffie",
+      "has_synced": true,
+      "path": "select/12_Difficult_Uffie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "These Are Difficult Times / Remember the Good Times",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/13_These_Are_Difficult_Times___Remember_the_Good_Times_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Difficult",
+      "artist": "Ruby Waters",
+      "has_synced": true,
+      "path": "select/14_Difficult_Ruby_Waters.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Difficult For Weirdos",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/15_Difficult_For_Weirdos_Robbie_Williams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DIFFICULT",
+      "artist": "guca owl",
+      "has_synced": false,
+      "path": "select/pl_01_DIFFICULT_guca_owl.txt"
+    }
+  ]
+}
